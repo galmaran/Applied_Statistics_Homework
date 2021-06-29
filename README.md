@@ -6,3 +6,9 @@
 Рассмотреть три признака, три взаимодействия между признаками, визуализировать различными способами. [Ноутбук](https://github.com/galmaran/Applied_Statistics_Homework/blob/main/Visualization_task.ipynb)
 ### Задание по линейной регрессии
 Усилить модель линейной регресии, выполнить подготовку и проверку признаков. [Ноутбук](https://github.com/galmaran/Applied_Statistics_Homework/blob/main/Linear_regression.ipynb)
+### Задание по логистической регрессии
+Построить модель предсказания оттока клиентов. [Ноутбук](https://github.com/galmaran/Applied_Statistics_Homework/blob/main/Logistic_regression_task.ipynb)
+### Задание по анализу временных рядов
+Подобрать модель из класса ARIMA для предсказания поведения временного ряда. [Ноутбук](https://github.com/galmaran/Applied_Statistics_Homework/blob/main/Time_series.ipynb)
+### Задание по решающим деревьям/случайному лесу
+Построить модель, предсказывающую вероятность закрытия кредита раньше половины срока. [Ноутбук](https://github.com/galmaran/Applied_Statistics_Homework/blob/main/Decision_tree_random_forest.ipynb)
